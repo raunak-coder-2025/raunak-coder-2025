@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Raunak</h1>
+<h3 align="center">15 y/o Python & Web Dev Learner | Future Tech Creator with Big Dreams!</h3>
 
-<!--
-**raunak-coder-2025/raunak-coder-2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me:
+- Class 10 student with a big dream to create amazing tech
+- Learning Python, Web Development, and exploring projects
+- Inspired by Elon Musk, aiming to build real-world impact apps
+- Open to learning new things every day!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Tech I Know:
+- Python (Basics to OOP, Exception Handling, Tkinter)
+- Currently learning: **Web Development (HTML, CSS, JavaScript)**
+
+---
+
+### 📂 My Projects:
+- [Calculator in Python](https://github.com/raunak-coder-2025/calculator)  
+  A CLI calculator supporting arithmetic, comparison & square root
+
+---
+
+### 🌱 Goals for 2025:
+- Complete web dev and make awesome websites
+- Build games with Pygame
+- Start contributing to open-source
+- Keep growing & help others along the way
+
+---
+
+### 📫 How to reach me:
+- Coming soon: My personal website!
+
+---
+
+<p align="center">Thanks for visiting my profile!</p>
