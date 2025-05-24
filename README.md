@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Raunak</h1>
+<h1 align="center">Hi, I'm Neo</h1>
 <h3 align="center">15 y/o Python & Web Dev Learner | Future Tech Creator with Big Dreams!</h3>
 
 ---
